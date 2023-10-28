@@ -22,8 +22,8 @@ To get started, we recommend using the [Visual Studio](https://visualstudio.micr
 
 ## Contributions by member
 
-For more information about the breakdown of work done by each member, see [CONTRIBUTIONS.md](https://bitbucket.org/web2023-06-s10240050/web2023apr_p06_tf/src/main/CONTRIBUTIONS.md).
+For more information about the breakdown of work done by each member, see [CONTRIBUTIONS.md](https://github.com/RiShengSim/NPCS/blob/main/CONTRIBUTIONS.md).
 
 ## Licence
 
-This project uses the [MIT License](https://bitbucket.org/web2023-06-s10240050/web2023apr_p06_tf/src/main/LICENSE.md), which allows you to commercially use, distribute, modify, and privately use the source code and product with the retainment of the licence and copyright notices. For more information, click the link above to see the licence text.
+This project uses the [MIT License](https://github.com/RiShengSim/NPCS/blob/main/LICENSE.md), which allows you to commercially use, distribute, modify, and privately use the source code and product with the retainment of the licence and copyright notices. For more information, click the link above to see the licence text.
