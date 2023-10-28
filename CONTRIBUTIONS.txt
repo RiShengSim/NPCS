@@ -1,0 +1,21 @@
+﻿Aaron -Implementation of About Page
+
+Added New Content such as FAQs, Scroll Effect for FAQ Button is impemented.
+
+Added Styling for buttons
+
+Fixed Section Column //Credits Button not implemented yet
+
+
+Arash - Implemented Parcel and Auth Controller and implemented create and index cshtml files.
+
+Implemented AuthDAl, BAseDAL,DeliveryDAL and ParcelsDAL
+
+Vishwa - Implemented MemberRegistration and MemberLogin cshtml files
+
+Implemented MemberController and added public (List<SelectListItem>, List<SelectListItem>, List<SelectListItem>, List<SelectListItem>) GetLocationSelectListItems()  in Parcel controller
+
+Added  GetCountries() method in DeliverDAL
+
+Ri Sheng - Implemented Shipping Rate List 
+Implemented LocationController.cs, Location_List.cs, Views/Location, CreateShipping.cshtml (Part of Views/Location)
